@@ -43,5 +43,5 @@ String str = sc.nextLine(); //띄어쓰기가 포함된 문자열을 입력받�
      - 문자열을 띄어쓰기를 기준으로 토큰(token) 단위로 끊어줌
      - 입력받은 값이 다음 줄로 넘어갈 경우
   <br> 
-    `stringtokenizer = new StringTokenizer(br.readLine());`
+    ` stringtokenizer = new StringTokenizer(br.readLine()); `
     <br> 위와 같이 객체를 재선언한 후 다시 데이터를 받아준다.
