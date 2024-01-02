@@ -15,7 +15,7 @@
 StringBuffer sb = new StringBuffer("abcde");
 sb.indexOf("a");
 ```
-기본적으로 indexOf 메서드를 이용하지만 이 때 indexOf 메서드에는 string값이 들어가야함 <br>
+기본적으로 indexOf 메서드를 이용하지만 이 때 indexOf 메서드에는 String값이 들어가야함 <br>
 만약, 찾는 문자가 다른 String 객체 내의 값이라면? (charAt 메서드를 쓴 경우)   
 ```java
 String str = "cake";
