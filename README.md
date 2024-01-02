@@ -1,7 +1,7 @@
 # WIL
 ⚡️ **What I Learned**
 <br> 현재는 코딩 테스트 문제 풀며 알게 된 내용 정리 중입니다.
-- [velog](https://velog.io/@rin305/posts) : 전체적인 내용 총정리, 프로젝트 설명, 트러블슈팅 경 등
+- [velog](https://velog.io/@rin305/posts) : 전체적인 내용 총정리, 프로젝트 설명, 트러블슈팅 기록 등
 - [WIL](https://github.com/rin305/WIL) : 그 때 그 때 알게 된 간단한 내용 커밋
 ## Java
 - 유사함수, 헷갈리는 함수
